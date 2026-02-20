@@ -153,9 +153,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "34234c9c8860f5d2",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +182,8 @@
   },
   "active": "f1648251cd8965e6",
   "lastOpenFiles": [
-    "Tasks/Month.md",
     "Tasks/Global.md",
+    "Tasks/Month.md",
     "Tasks/Day.md",
     "Principles.md",
     "Facts.md",
