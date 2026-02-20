@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles.md",
-                "mode": "source",
+                "file": "Tasks/Global.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles"
+              "title": "Global"
             }
           }
         ]
@@ -173,9 +173,9 @@
   "active": "f1648251cd8965e6",
   "lastOpenFiles": [
     "Tasks/Day.md",
-    "obsid.md",
-    "Principles.md",
     "Facts.md",
+    "Principles.md",
+    "obsid.md",
     "/Tasks/Day.md",
     "/Tasks",
     "/Principles.md",
