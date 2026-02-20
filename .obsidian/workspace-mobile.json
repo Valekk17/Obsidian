@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Day.md",
+                "file": "Tasks/Month.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day"
+              "title": "Month"
             }
           }
         ]
@@ -172,17 +172,17 @@
   },
   "active": "f1648251cd8965e6",
   "lastOpenFiles": [
-    "Tasks/Month.md",
-    "Tasks/Global.md",
-    "Tasks/Day.md",
     "Facts.md",
     "Principles.md",
+    "System_Architecture.md",
+    "Tasks/Day.md",
+    "Tasks/Month.md",
+    "Tasks/Global.md",
     "obsid.md",
     "/Tasks/Day.md",
     "/Tasks",
     "/Principles.md",
     "/Facts.md",
-    "System_Architecture.md",
     "/obsid.md",
     "obsid",
     "/obsid",
