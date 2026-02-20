@@ -1,11 +1,11 @@
-# Principles & Decisions
+# Принципы и решения
 
-## Family (Shared)
-- [ ] Главное любить и разговаривать
-- [ ] Адекватно общаться
-- [ ] На зло не нужно злом отвечать
+## Семья
+- Главное любить и разговаривать
+- Адекватно общаться
+- На зло не нужно злом отвечать
 
-## Personal (Valekk)
-- [ ] Avoid fluff, be direct.
-- [ ] Token Economy: Efficiency first.
-- [ ] System: Local-first, Markdown-based.
+## Личные
+- Без воды, по делу
+- Эффективность прежде всего
+- Локальная система, Markdown-based
