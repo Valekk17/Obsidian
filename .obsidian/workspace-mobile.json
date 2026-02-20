@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Global.md",
+                "file": "Tasks/Month.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global"
+              "title": "Month"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "f1648251cd8965e6",
   "lastOpenFiles": [
+    "Tasks/Global.md",
     "Tasks/Day.md",
     "Principles.md",
-    "Tasks/Global.md",
     "Facts.md",
     "Tasks/Month.md",
     "System_Architecture.md",
