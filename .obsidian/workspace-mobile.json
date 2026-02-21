@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposals/2026-02-21.md",
+                "file": "Proposals/2026-02-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-21"
+              "title": "2026-02-20"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "f1648251cd8965e6",
   "lastOpenFiles": [
+    "Proposals/2026-02-21.md",
     "Proposals/2026-02-20.md",
     "Principles.md",
     "Tasks/Day.md",
     "Tasks/Month.md",
     "Tasks/Global.md",
-    "Proposals/2026-02-21.md",
     "/Tasks/Month.md",
     "/Tasks/Global.md",
     "/Tasks/Day.md",
